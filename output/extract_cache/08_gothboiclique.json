@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "name": "GothBoiClique",
+      "type": "Organization",
+      "description": "Американський творчий колектив, один із центрів емо-реп-сцени"
+    },
+    {
+      "name": "Lil Peep",
+      "type": "Person",
+      "description": "Відомий емо-реп виконавець, учасник GothBoiClique"
+    },
+    {
+      "name": "Wicca Phase Springs Eternal",
+      "type": "Person",
+      "description": "Сценічне ім'я Адама Макілві, засновник GothBoiClique"
+    },
+    {
+      "name": "Cold Hart",
+      "type": "Person",
+      "description": "Засновник колективу GothBoiClique"
+    },
+    {
+      "name": "Horse Head",
+      "type": "Person",
+      "description": "Засновник колективу GothBoiClique"
+    },
+    {
+      "name": "Tigers Jaw",
+      "type": "Organization",
+      "description": "Пенсильванський емо-гурт, колишній гурт Wicca Phase Springs Eternal"
+    },
+    {
+      "name": "Fish Narc",
+      "type": "Person",
+      "description": "Музикант, учасник GothBoiClique"
+    },
+    {
+      "name": "Lil Tracy",
+      "type": "Person",
+      "description": "Музикант, учасник GothBoiClique"
+    },
+    {
+      "name": "Mackned",
+      "type": "Person",
+      "description": "Музикант, учасник GothBoiClique"
+    },
+    {
+      "name": "JPDreamthug",
+      "type": "Person",
+      "description": "Музикант, учасник GothBoiClique"
+    },
+    {
+      "name": "Castles",
+      "type": "Release",
+      "description": "Спільний реліз Lil Peep та Lil Tracy"
+    },
+    {
+      "name": "Witchblades",
+      "type": "Release",
+      "description": "Спільний трек Lil Peep та Lil Tracy"
+    },
+    {
+      "name": "Everybody's Everything",
+      "type": "Release",
+      "description": "Документальний фільм, присвячений Lil Peep"
+    },
+    {
+      "name": "Run for Cover Records",
+      "type": "Organization",
+      "description": "Інді-лейбл, що спеціалізується на емо та інді-року"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Wicca Phase Springs Eternal",
+      "subject_type": "Person",
+      "predicate": "FOUNDED",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 2013,
+      "evidence": "Об'єднання сформувалося приблизно у 2013 році. Серед його засновників називають Wicca Phase Springs Eternal, Cold Hart і Horse Head."
+    },
+    {
+      "subject": "Cold Hart",
+      "subject_type": "Person",
+      "predicate": "FOUNDED",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 2013,
+      "evidence": "Об'єднання сформувалося приблизно у 2013 році. Серед його засновників називають Wicca Phase Springs Eternal, Cold Hart і Horse Head."
+    },
+    {
+      "subject": "Horse Head",
+      "subject_type": "Person",
+      "predicate": "FOUNDED",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 2013,
+      "evidence": "Об'єднання сформувалося приблизно у 2013 році. Серед його засновників називають Wicca Phase Springs Eternal, Cold Hart і Horse Head."
+    },
+    {
+      "subject": "Wicca Phase Springs Eternal",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "Tigers Jaw",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Wicca Phase Springs Eternal — сценічне ім'я Адама Макілві, колишнього вокаліста пенсильванського емо-гурту Tigers Jaw."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 2016,
+      "evidence": "У 2016 році до колективу приєднався Lil Peep, який швидко став його найвідомішим учасником."
+    },
+    {
+      "subject": "Fish Narc",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "До GothBoiClique в різний час входили Fish Narc, Lil Tracy, Mackned, JPDreamthug та інші музиканти."
+    },
+    {
+      "subject": "Lil Tracy",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "До GothBoiClique в різний час входили Fish Narc, Lil Tracy, Mackned, JPDreamthug та інші музиканти."
+    },
+    {
+      "subject": "Mackned",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "До GothBoiClique в різний час входили Fish Narc, Lil Tracy, Mackned, JPDreamthug та інші музиканти."
+    },
+    {
+      "subject": "JPDreamthug",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "До GothBoiClique в різний час входили Fish Narc, Lil Tracy, Mackned, JPDreamthug та інші музиканти."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "COLLABORATED_WITH",
+      "object": "Lil Tracy",
+      "object_type": "Person",
+      "year": 0,
+      "evidence": "Lil Peep та Lil Tracy записали разом низку пісень, зокрема «Castles» та «Witchblades»."
+    },
+    {
+      "subject": "Wicca Phase Springs Eternal",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "Wicca Phase Springs Eternal",
+      "object_type": "Release",
+      "year": 2020,
+      "evidence": "У 2020 році Wicca Phase Springs Eternal випустив однойменний альбом на інді-лейблі Run for Cover Records, який спеціалізується на емо та інді-року."
+    },
+    {
+      "subject": "Wicca Phase Springs Eternal",
+      "subject_type": "Person",
+      "predicate": "SIGNED_TO",
+      "object": "Run for Cover Records",
+      "object_type": "Organization",
+      "year": 2020,
+      "evidence": "У 2020 році Wicca Phase Springs Eternal випустив однойменний альбом на інді-лейблі Run for Cover Records, який спеціалізується на емо та інді-року."
+    }
+  ]
+}

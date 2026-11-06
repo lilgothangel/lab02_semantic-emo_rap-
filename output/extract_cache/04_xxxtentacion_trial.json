@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "name": "XXXTentacion",
+      "type": "Person",
+      "description": "Реп-виконавець, вбитий у 2018 році"
+    },
+    {
+      "name": "Дедрік Вільямс",
+      "type": "Person",
+      "description": "Один із засуджених за вбивство XXXTentacion"
+    },
+    {
+      "name": "Майкл Боатрайт",
+      "type": "Person",
+      "description": "Один із засуджених за вбивство XXXTentacion"
+    },
+    {
+      "name": "Трейвон Ньюсом",
+      "type": "Person",
+      "description": "Один із засуджених за вбивство XXXTentacion"
+    },
+    {
+      "name": "Роберт Аллен",
+      "type": "Person",
+      "description": "Учасник нападу, який пішов на угоду зі слідством"
+    },
+    {
+      "name": "Дірфілд-Біч",
+      "type": "Place",
+      "description": "Місто, де було вбито XXXTentacion"
+    },
+    {
+      "name": "Форт-Лодердейлі",
+      "type": "Place",
+      "description": "Місто, де проходив судовий процес"
+    },
+    {
+      "name": "Клеопатра Бернард",
+      "type": "Person",
+      "description": "Мати XXXTentacion"
+    },
+    {
+      "name": "Lil Peep",
+      "type": "Person",
+      "description": "Реп-виконавець, який загинув від передозування"
+    },
+    {
+      "name": "Juice WRLD",
+      "type": "Person",
+      "description": "Реп-виконавець, який загинув від передозування"
+    },
+    {
+      "name": "Bad Vibes Forever",
+      "type": "Organization",
+      "description": "Лейбл, який веде офіційні сторінки XXXTentacion"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Дедрік Вільямс",
+      "subject_type": "Person",
+      "predicate": "PARTICIPATED_IN",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 2023,
+      "evidence": "20 березня 2023 року присяжні в окрузі Бровард, штат Флорида, визнали трьох чоловіків винними у вбивстві першого ступеня та збройному пограбуванні репера XXXTentacion."
+    },
+    {
+      "subject": "Майкл Боатрайт",
+      "subject_type": "Person",
+      "predicate": "PARTICIPATED_IN",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 2023,
+      "evidence": "20 березня 2023 року присяжні в окрузі Бровард, штат Флорида, визнали трьох чоловіків винними у вбивстві першого ступеня та збройному пограбуванні репера XXXTentacion."
+    },
+    {
+      "subject": "Трейвон Ньюсом",
+      "subject_type": "Person",
+      "predicate": "PARTICIPATED_IN",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 2023,
+      "evidence": "20 березня 2023 року присяжні в окрузі Бровард, штат Флорида, визнали трьох чоловіків винними у вбивстві першого ступеня та збройному пограбуванні репера XXXTentacion."
+    },
+    {
+      "subject": "XXXTentacion",
+      "subject_type": "Person",
+      "predicate": "DIED_IN",
+      "object": "Дірфілд-Біч",
+      "object_type": "Place",
+      "year": 2018,
+      "evidence": "Музиканта було вбито 18 червня 2018 року в місті Дірфілд-Біч."
+    },
+    {
+      "subject": "Роберт Аллен",
+      "subject_type": "Person",
+      "predicate": "PARTICIPATED_IN",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 2022,
+      "evidence": "У 2022 році він уклав угоду зі слідством, визнав себе винним у вбивстві другого ступеня і погодився дати свідчення проти спільників."
+    },
+    {
+      "subject": "Клеопатра Бернард",
+      "subject_type": "Person",
+      "predicate": "RELATED_TO",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 2023,
+      "evidence": "Під час оголошення вироку в залі суду були присутні мати музиканта Клеопатра Бернард та інші родичі."
+    },
+    {
+      "subject": "Bad Vibes Forever",
+      "subject_type": "Organization",
+      "predicate": "RELATED_TO",
+      "object": "XXXTentacion",
+      "object_type": "Person",
+      "year": 0,
+      "evidence": "Після оголошення вироку на офіційних сторінках XXXTentacion, які веде команда лейбла Bad Vibes Forever, з'явилося повідомлення з подякою слідству та фанатам за підтримку."
+    }
+  ]
+}

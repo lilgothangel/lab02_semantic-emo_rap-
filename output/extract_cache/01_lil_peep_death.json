@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "name": "Lil Peep",
+      "type": "Person",
+      "description": "Американський емо-репер, справжнє ім'я Густав Елайджа Ар"
+    },
+    {
+      "name": "Тусон",
+      "type": "Place",
+      "description": "Місто в штаті Аризона, де помер Lil Peep"
+    },
+    {
+      "name": "The Rock",
+      "type": "Place",
+      "description": "Клуб у Тусоні, де мав відбутися концерт"
+    },
+    {
+      "name": "Come Over When You're Sober, Pt. 1",
+      "type": "Release",
+      "description": "Дебютний студійний альбом Lil Peep 2017 року"
+    },
+    {
+      "name": "Аллентаун",
+      "type": "Place",
+      "description": "Місто в штаті Пенсильванія, де народився Lil Peep"
+    },
+    {
+      "name": "Лонг-Біч",
+      "type": "Place",
+      "description": "Місто в штаті Нью-Йорк, де виріс Lil Peep"
+    },
+    {
+      "name": "Лос-Анджелес",
+      "type": "Place",
+      "description": "Місто, до якого переїхав Lil Peep у 17 років"
+    },
+    {
+      "name": "SoundCloud",
+      "type": "Organization",
+      "description": "Платформа, куди Lil Peep почав викладати свої пісні"
+    },
+    {
+      "name": "Crybaby",
+      "type": "Release",
+      "description": "Мікстейп Lil Peep 2016 року"
+    },
+    {
+      "name": "Hellboy",
+      "type": "Release",
+      "description": "Мікстейп Lil Peep 2016 року"
+    },
+    {
+      "name": "GothBoiClique",
+      "type": "Organization",
+      "description": "Творчий колектив, до якого приєднався Lil Peep"
+    },
+    {
+      "name": "Wicca Phase Springs Eternal",
+      "type": "Person",
+      "description": "Учасник творчого колективу GothBoiClique"
+    },
+    {
+      "name": "Lil Tracy",
+      "type": "Person",
+      "description": "Учасник творчого колективу GothBoiClique"
+    },
+    {
+      "name": "Піт Вентц",
+      "type": "Person",
+      "description": "Басист рок-гурту Fall Out Boy"
+    },
+    {
+      "name": "Fall Out Boy",
+      "type": "Organization",
+      "description": "Рок-гурт, басистом якого є Піт Вентц"
+    },
+    {
+      "name": "XXXTentacion",
+      "type": "Person",
+      "description": "Представник емо-репу, якого застрелили в червні 2018 року"
+    },
+    {
+      "name": "Juice WRLD",
+      "type": "Person",
+      "description": "Представник емо-репу, який помер у грудні 2019 року"
+    },
+    {
+      "name": "Columbia Records",
+      "type": "Organization",
+      "description": "Музичний лейбл, що посмертно випускав матеріали Lil Peep"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "DIED_IN",
+      "object": "Тусон",
+      "object_type": "Place",
+      "year": 2017,
+      "evidence": "Тіло музиканта знайшли в його туровому автобусі в місті Тусон, штат Аризона, за кілька годин до запланованого концерту в клубі The Rock."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "Come Over When You're Sober, Pt. 1",
+      "object_type": "Release",
+      "year": 2017,
+      "evidence": "Концерт у Тусоні був частиною туру на підтримку дебютного студійного альбому «Come Over When You're Sober, Pt. 1», який вийшов 15 серпня 2017 року."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "BORN_IN",
+      "object": "Аллентаун",
+      "object_type": "Place",
+      "year": 1996,
+      "evidence": "Lil Peep народився 1 листопада 1996 року в місті Аллентаун, штат Пенсильванія, а виріс у Лонг-Біч, штат Нью-Йорк."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "Crybaby",
+      "object_type": "Release",
+      "year": 2016,
+      "evidence": "Широку популярність йому принесли мікстейпи «Crybaby» та «Hellboy», випущені у 2016 році."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "Hellboy",
+      "object_type": "Release",
+      "year": 2016,
+      "evidence": "Широку популярність йому принесли мікстейпи «Crybaby» та «Hellboy», випущені у 2016 році."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 2016,
+      "evidence": "Того ж року він приєднався до творчого колективу GothBoiClique, у якому були, зокрема, Wicca Phase Springs Eternal та Lil Tracy."
+    },
+    {
+      "subject": "Wicca Phase Springs Eternal",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Того ж року він приєднався до творчого колективу GothBoiClique, у якому були, зокрема, Wicca Phase Springs Eternal та Lil Tracy."
+    },
+    {
+      "subject": "Lil Tracy",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "GothBoiClique",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Того ж року він приєднався до творчого колективу GothBoiClique, у якому були, зокрема, Wicca Phase Springs Eternal та Lil Tracy."
+    },
+    {
+      "subject": "Піт Вентц",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "Fall Out Boy",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Піт Вентц, басист гурту Fall Out Boy, написав, що Lil Peep міг стати для свого покоління фігурою масштабу Курта Кобейна."
+    },
+    {
+      "subject": "Lil Peep",
+      "subject_type": "Person",
+      "predicate": "SIGNED_TO",
+      "object": "Columbia Records",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Посмертно матеріали Lil Peep продовжили виходити на лейблі Columbia Records під наглядом його родини."
+    }
+  ]
+}

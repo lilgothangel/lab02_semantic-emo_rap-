@@ -1,0 +1,566 @@
+[
+  {
+    "name": "Lil Peep",
+    "type": "Person",
+    "description": "Американський емо-репер, справжнє ім'я Густав Елайджа Ар",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Тусон",
+    "type": "Place",
+    "description": "Місто в штаті Аризона, де помер Lil Peep",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "The Rock",
+    "type": "Place",
+    "description": "Клуб у Тусоні, де мав відбутися концерт",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Come Over When You're Sober, Pt. 1",
+    "type": "Release",
+    "description": "Дебютний студійний альбом Lil Peep 2017 року",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Аллентаун",
+    "type": "Place",
+    "description": "Місто в штаті Пенсильванія, де народився Lil Peep",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Лонг-Біч",
+    "type": "Place",
+    "description": "Місто в штаті Нью-Йорк, де виріс Lil Peep",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Лос-Анджелес",
+    "type": "Place",
+    "description": "Місто, до якого переїхав Lil Peep у 17 років",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "SoundCloud",
+    "type": "Organization",
+    "description": "Платформа, куди Lil Peep почав викладати свої пісні",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Crybaby",
+    "type": "Release",
+    "description": "Мікстейп Lil Peep 2016 року",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Hellboy",
+    "type": "Release",
+    "description": "Мікстейп Lil Peep 2016 року",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "GothBoiClique",
+    "type": "Organization",
+    "description": "Творчий колектив, до якого приєднався Lil Peep",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Wicca Phase Springs Eternal",
+    "type": "Person",
+    "description": "Учасник творчого колективу GothBoiClique",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Lil Tracy",
+    "type": "Person",
+    "description": "Учасник творчого колективу GothBoiClique",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Піт Вентц",
+    "type": "Person",
+    "description": "Басист рок-гурту Fall Out Boy",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Fall Out Boy",
+    "type": "Organization",
+    "description": "Рок-гурт, басистом якого є Піт Вентц",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "XXXTentacion",
+    "type": "Person",
+    "description": "Представник емо-репу, якого застрелили в червні 2018 року",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Juice WRLD",
+    "type": "Person",
+    "description": "Представник емо-репу, який помер у грудні 2019 року",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Columbia Records",
+    "type": "Organization",
+    "description": "Музичний лейбл, що посмертно випускав матеріали Lil Peep",
+    "doc_id": "01_lil_peep_death"
+  },
+  {
+    "name": "Come Over When You're Sober, Pt. 2",
+    "type": "Release",
+    "description": "Посмертний альбом Lil Peep, випущений у 2018 році",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Smokeasac",
+    "type": "Person",
+    "description": "Продюсер, який працював з Lil Peep і завершив посмертний альбом",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Billboard 200",
+    "type": "Chart",
+    "description": "Музичний чарт альбомів",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Ліза Вомак",
+    "type": "Person",
+    "description": "Мати Lil Peep, яка контролювала підготовку посмертних релізів і подала позов",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Falling Down",
+    "type": "Release",
+    "description": "Спільний посмертний сингл Lil Peep та XXXTentacion",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Billboard Hot 100",
+    "type": "Chart",
+    "description": "Музичний чарт синглів",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "South by Southwest",
+    "type": "Event",
+    "description": "Фестиваль в Остіні, де відбулася прем'єра фільму Everybody's Everything",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Everybody's Everything",
+    "type": "Release",
+    "description": "Документальний фільм про життя Lil Peep",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Себастьян Джонс",
+    "type": "Person",
+    "description": "Режисер документального фільму про Lil Peep",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Рамез Сіліян",
+    "type": "Person",
+    "description": "Режисер документального фільму про Lil Peep",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Терренс Малік",
+    "type": "Person",
+    "description": "Кінорежисер, виконавчий продюсер фільму Everybody's Everything",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "First Access Entertainment",
+    "type": "Organization",
+    "description": "Компанія, яка займалася менеджментом Lil Peep",
+    "doc_id": "02_lil_peep_legacy"
+  },
+  {
+    "name": "Дірфілд-Біч",
+    "type": "Place",
+    "description": "Місто у штаті Флорида, де загинув XXXTentacion",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Плантейшн",
+    "type": "Place",
+    "description": "Місто у штаті Флорида, де народився XXXTentacion",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Look at Me!",
+    "type": "Release",
+    "description": "Вірусний трек XXXTentacion, опублікований на SoundCloud",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Bad Vibes Forever",
+    "type": "Organization",
+    "description": "Власний лейбл, заснований XXXTentacion",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "17",
+    "type": "Release",
+    "description": "Дебютний альбом XXXTentacion, випущений у серпні 2017 року",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Fuck Love",
+    "type": "Release",
+    "description": "Спільний трек XXXTentacion з Trippie Redd з альбому 17",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Trippie Redd",
+    "type": "Person",
+    "description": "Американський репер, колега XXXTentacion",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "?",
+    "type": "Release",
+    "description": "Другий альбом XXXTentacion, випущений у березні 2018 року",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "SAD!",
+    "type": "Release",
+    "description": "Пісня XXXTentacion з альбому ?",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Санрайз",
+    "type": "Place",
+    "description": "Місто у штаті Флорида, де відбулася публічна церемонія прощання",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Legends",
+    "type": "Release",
+    "description": "Трек Juice WRLD, присвячений пам'яті XXXTentacion та Lil Peep",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Skins",
+    "type": "Release",
+    "description": "Посмертний альбом XXXTentacion, випущений у грудні 2018 року",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Bad Vibes Forever (альбом)",
+    "type": "Release",
+    "description": "Посмертний альбом XXXTentacion, випущений у грудні 2019 року",
+    "doc_id": "03_xxxtentacion_death"
+  },
+  {
+    "name": "Дедрік Вільямс",
+    "type": "Person",
+    "description": "Один із засуджених за вбивство XXXTentacion",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Майкл Боатрайт",
+    "type": "Person",
+    "description": "Один із засуджених за вбивство XXXTentacion",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Трейвон Ньюсом",
+    "type": "Person",
+    "description": "Один із засуджених за вбивство XXXTentacion",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Роберт Аллен",
+    "type": "Person",
+    "description": "Учасник нападу, який пішов на угоду зі слідством",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Форт-Лодердейлі",
+    "type": "Place",
+    "description": "Місто, де проходив судовий процес",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Клеопатра Бернард",
+    "type": "Person",
+    "description": "Мати XXXTentacion",
+    "doc_id": "04_xxxtentacion_trial"
+  },
+  {
+    "name": "Чикаго",
+    "type": "Place",
+    "description": "Місто, де народився та помер Juice WRLD",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Lucid Dreams",
+    "type": "Release",
+    "description": "Сингл Juice WRLD, що приніс йому славу у 2018 році",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Nick Mira",
+    "type": "Person",
+    "description": "Продюсер, створив біт для Lucid Dreams",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Internet Money",
+    "type": "Organization",
+    "description": "Колектив, до якого входить продюсер Nick Mira",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Shape of My Heart",
+    "type": "Release",
+    "description": "Композиція Стінга, семпл якої використано в Lucid Dreams",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Стінг",
+    "type": "Person",
+    "description": "Британський музикант, автор Shape of My Heart",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Grade A Productions",
+    "type": "Organization",
+    "description": "Лейбл, з яким Juice WRLD підписав контракт",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Lil Bibby",
+    "type": "Person",
+    "description": "Чиказький репер, очільник лейблу Grade A Productions",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Interscope Records",
+    "type": "Organization",
+    "description": "Лейбл, партнер Grade A Productions",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Goodbye & Good Riddance",
+    "type": "Release",
+    "description": "Дебютний альбом Juice WRLD",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Death Race for Love",
+    "type": "Release",
+    "description": "Другий альбом Juice WRLD",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Nicki WRLD Tour",
+    "type": "Event",
+    "description": "Тур Juice WRLD разом із Нікі Мінаж",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Нікі Мінаж",
+    "type": "Person",
+    "description": "Артистка, з якою Juice WRLD виступав у турі",
+    "doc_id": "05_juice_wrld_death"
+  },
+  {
+    "name": "Кармела Воллес",
+    "type": "Person",
+    "description": "Мати Juice WRLD, засновниця фонду Live Free 999",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Live Free 999",
+    "type": "Organization",
+    "description": "Фонд, створений для підтримки молоді з психічними розладами та залежностями",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Legends Never Die",
+    "type": "Release",
+    "description": "Посмертний альбом Juice WRLD, випущений у 2020 році",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Fighting Demons",
+    "type": "Release",
+    "description": "Посмертний альбом Juice WRLD, випущений у 2021 році",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Juice WRLD: Into the Abyss",
+    "type": "Release",
+    "description": "Документальний фільм про життя та творчість Juice WRLD",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Томмі Олівер",
+    "type": "Person",
+    "description": "Режисер документального фільму про Juice WRLD",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "HBO Max",
+    "type": "Organization",
+    "description": "Стрімінгова платформа, де відбулася прем'єра фільму",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "The Party Never Ends",
+    "type": "Release",
+    "description": "Альбом Juice WRLD, випущений у 2024 році",
+    "doc_id": "06_juice_wrld_legacy"
+  },
+  {
+    "name": "Кантон",
+    "type": "Place",
+    "description": "Місто в штаті Огайо, місце народження Trippie Redd",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "A Love Letter to You",
+    "type": "Release",
+    "description": "Мікстейп Trippie Redd, що приніс йому прорив",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Love Scars",
+    "type": "Release",
+    "description": "Меланхолійна балада з мікстейпу A Love Letter to You",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "TenThousand Projects",
+    "type": "Organization",
+    "description": "Незалежний лейбл, з яким підписав контракт Trippie Redd",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Life's a Trip",
+    "type": "Release",
+    "description": "Дебютний студійний альбом Trippie Redd",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "A Love Letter to You 3",
+    "type": "Release",
+    "description": "Мікстейп Trippie Redd",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "1400 / 999 Freestyle",
+    "type": "Release",
+    "description": "Спільний трек Trippie Redd та Juice WRLD",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Pegasus",
+    "type": "Release",
+    "description": "Альбом Trippie Redd з рок-звучанням",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Trip at Knight",
+    "type": "Release",
+    "description": "Альбом Trippie Redd у стилі треп",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Mansion Musik",
+    "type": "Release",
+    "description": "Альбом Trippie Redd",
+    "doc_id": "07_trippie_redd"
+  },
+  {
+    "name": "Cold Hart",
+    "type": "Person",
+    "description": "Засновник колективу GothBoiClique",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Horse Head",
+    "type": "Person",
+    "description": "Засновник колективу GothBoiClique",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Tigers Jaw",
+    "type": "Organization",
+    "description": "Пенсильванський емо-гурт, колишній гурт Wicca Phase Springs Eternal",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Fish Narc",
+    "type": "Person",
+    "description": "Музикант, учасник GothBoiClique",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Mackned",
+    "type": "Person",
+    "description": "Музикант, учасник GothBoiClique",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "JPDreamthug",
+    "type": "Person",
+    "description": "Музикант, учасник GothBoiClique",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Castles",
+    "type": "Release",
+    "description": "Спільний реліз Lil Peep та Lil Tracy",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Witchblades",
+    "type": "Release",
+    "description": "Спільний трек Lil Peep та Lil Tracy",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Run for Cover Records",
+    "type": "Organization",
+    "description": "Інді-лейбл, що спеціалізується на емо та інді-року",
+    "doc_id": "08_gothboiclique"
+  },
+  {
+    "name": "Lil Uzi Vert",
+    "type": "Person",
+    "description": "Репер, який відіграв важливу роль у популяризації емо-реп звучання",
+    "doc_id": "09_emo_rap_trend"
+  },
+  {
+    "name": "XO Tour Llif3",
+    "type": "Release",
+    "description": "Сингл Lil Uzi Vert, що став гімном покоління",
+    "doc_id": "09_emo_rap_trend"
+  },
+  {
+    "name": "Lil Xan",
+    "type": "Person",
+    "description": "Репер, який відмовився від вживання Xanax",
+    "doc_id": "09_emo_rap_trend"
+  },
+  {
+    "name": "Sunlight on Your Skin",
+    "type": "Release",
+    "description": "Незавершена пісня Lil Peep, що стала основою для Falling Down",
+    "doc_id": "10_falling_down"
+  },
+  {
+    "name": "iLoveMakonnen",
+    "type": "Person",
+    "description": "Репер, співавтор оригінальної пісні Sunlight on Your Skin",
+    "doc_id": "10_falling_down"
+  }
+]

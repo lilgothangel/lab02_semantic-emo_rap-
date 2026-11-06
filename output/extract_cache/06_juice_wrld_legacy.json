@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "Juice WRLD",
+      "type": "Person",
+      "description": "Американський репер, відомий своїми посмертними релізами та боротьбою із залежністю"
+    },
+    {
+      "name": "Кармела Воллес",
+      "type": "Person",
+      "description": "Мати Juice WRLD, засновниця фонду Live Free 999"
+    },
+    {
+      "name": "Live Free 999",
+      "type": "Organization",
+      "description": "Фонд, створений для підтримки молоді з психічними розладами та залежностями"
+    },
+    {
+      "name": "Legends Never Die",
+      "type": "Release",
+      "description": "Посмертний альбом Juice WRLD, випущений у 2020 році"
+    },
+    {
+      "name": "Grade A Productions",
+      "type": "Organization",
+      "description": "Лейбл, на якому виходили релізи Juice WRLD"
+    },
+    {
+      "name": "Interscope Records",
+      "type": "Organization",
+      "description": "Лейбл, що брав участь у випуску альбому Legends Never Die"
+    },
+    {
+      "name": "Billboard 200",
+      "type": "Chart",
+      "description": "Музичний чарт альбомів США"
+    },
+    {
+      "name": "Lil Bibby",
+      "type": "Person",
+      "description": "Засновник лейбла Grade A Productions"
+    },
+    {
+      "name": "Fighting Demons",
+      "type": "Release",
+      "description": "Посмертний альбом Juice WRLD, випущений у 2021 році"
+    },
+    {
+      "name": "Juice WRLD: Into the Abyss",
+      "type": "Release",
+      "description": "Документальний фільм про життя та творчість Juice WRLD"
+    },
+    {
+      "name": "Томмі Олівер",
+      "type": "Person",
+      "description": "Режисер документального фільму про Juice WRLD"
+    },
+    {
+      "name": "HBO Max",
+      "type": "Organization",
+      "description": "Стрімінгова платформа, де відбулася прем'єра фільму"
+    },
+    {
+      "name": "The Party Never Ends",
+      "type": "Release",
+      "description": "Альбом Juice WRLD, випущений у 2024 році"
+    },
+    {
+      "name": "Nick Mira",
+      "type": "Person",
+      "description": "Продюсер, автор біту Lucid Dreams"
+    },
+    {
+      "name": "Lucid Dreams",
+      "type": "Release",
+      "description": "Пісня Juice WRLD, спродюсована Nick Mira"
+    },
+    {
+      "name": "Internet Money",
+      "type": "Organization",
+      "description": "Продюсерський колектив, до якого входить Nick Mira"
+    },
+    {
+      "name": "Lil Peep",
+      "type": "Person",
+      "description": "Репер, якого часто порівнюють із Juice WRLD"
+    },
+    {
+      "name": "XXXTentacion",
+      "type": "Person",
+      "description": "Репер, якого часто порівнюють із Juice WRLD"
+    },
+    {
+      "name": "Чикаго",
+      "type": "Place",
+      "description": "Місто, де фанати влаштовують акції пам'яті"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Кармела Воллес",
+      "subject_type": "Person",
+      "predicate": "FOUNDED",
+      "object": "Live Free 999",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Після смерті Juice WRLD його мати Кармела Воллес оголосила про створення фонду Live Free 999."
+    },
+    {
+      "subject": "Grade A Productions",
+      "subject_type": "Organization",
+      "predicate": "RELEASED",
+      "object": "Legends Never Die",
+      "object_type": "Release",
+      "year": 2020,
+      "evidence": "Альбом «Legends Never Die» вийшов 10 липня 2020 року на лейблах Grade A Productions та Interscope Records і дебютував на першому місці чарту Billboard 200."
+    },
+    {
+      "subject": "Interscope Records",
+      "subject_type": "Organization",
+      "predicate": "RELEASED",
+      "object": "Legends Never Die",
+      "object_type": "Release",
+      "year": 2020,
+      "evidence": "Альбом «Legends Never Die» вийшов 10 липня 2020 року на лейблах Grade A Productions та Interscope Records і дебютував на першому місці чарту Billboard 200."
+    },
+    {
+      "subject": "Legends Never Die",
+      "subject_type": "Release",
+      "predicate": "CHARTED_ON",
+      "object": "Billboard 200",
+      "object_type": "Chart",
+      "year": 2020,
+      "evidence": "Альбом «Legends Never Die» вийшов 10 липня 2020 року на лейблах Grade A Productions та Interscope Records і дебютував на першому місці чарту Billboard 200."
+    },
+    {
+      "subject": "Lil Bibby",
+      "subject_type": "Person",
+      "predicate": "PRODUCED",
+      "object": "Legends Never Die",
+      "object_type": "Release",
+      "year": 2020,
+      "evidence": "Виконавчими продюсерами релізу виступили засновник Grade A Lil Bibby та інші керівники лейбла."
+    },
+    {
+      "subject": "Juice WRLD",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "Fighting Demons",
+      "object_type": "Release",
+      "year": 2021,
+      "evidence": "10 грудня 2021 року вийшов альбом «Fighting Demons»."
+    },
+    {
+      "subject": "Томмі Олівер",
+      "subject_type": "Person",
+      "predicate": "PARTICIPATED_IN",
+      "object": "Juice WRLD: Into the Abyss",
+      "object_type": "Release",
+      "year": 0,
+      "evidence": "Його реліз приурочили до прем'єри документального фільму «Juice WRLD: Into the Abyss» режисера Томмі Олівера на платформі HBO Max."
+    },
+    {
+      "subject": "Juice WRLD",
+      "subject_type": "Person",
+      "predicate": "RELEASED",
+      "object": "The Party Never Ends",
+      "object_type": "Release",
+      "year": 2024,
+      "evidence": "Останній, за словами команди, альбом «The Party Never Ends» вийшов 29 листопада 2024 року."
+    },
+    {
+      "subject": "Nick Mira",
+      "subject_type": "Person",
+      "predicate": "PRODUCED",
+      "object": "Lucid Dreams",
+      "object_type": "Release",
+      "year": 0,
+      "evidence": "Продюсер Nick Mira, автор біту «Lucid Dreams», в інтерв'ю зізнавався, що успіх цієї пісні змінив життя всього колективу Internet Money"
+    },
+    {
+      "subject": "Nick Mira",
+      "subject_type": "Person",
+      "predicate": "MEMBER_OF",
+      "object": "Internet Money",
+      "object_type": "Organization",
+      "year": 0,
+      "evidence": "Продюсер Nick Mira, автор біту «Lucid Dreams», в інтерв'ю зізнавався, що успіх цієї пісні змінив життя всього колективу Internet Money"
+    }
+  ]
+}
