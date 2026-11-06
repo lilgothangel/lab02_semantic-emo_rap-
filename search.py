@@ -1,4 +1,3 @@
-# п.3 - чанки, ембединги, векторний і keyword пошук
 import re
 import sys
 
@@ -20,6 +19,10 @@ COMPARE_QUERIES = [
     ("XO Tour Llif3", "09_emo_rap_trend", "точна назва"),
     ("Live Free 999", "06_juice_wrld_legacy", "точна назва"),
     ("Smokeasac", "02_lil_peep_legacy", "точне ім'я"),
+    ("Mackned", "08_gothboiclique", "точне ім'я"),
+    ("70 фунтів", "05_juice_wrld_death", "точне число"),
+    ("50 тисяч доларів", "04_xxxtentacion_trial", "точне число"),
+    ("29 листопада 2024", "06_juice_wrld_legacy", "точна дата"),
 ]
 
 

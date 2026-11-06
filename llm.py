@@ -1,4 +1,3 @@
-# клієнт Gemini для п.2-4
 import json
 import time
 from typing import Type, TypeVar

@@ -1,4 +1,3 @@
-# схема сутностей для корпусу новин про емо-реп
 from typing import Literal
 
 from pydantic import BaseModel, Field

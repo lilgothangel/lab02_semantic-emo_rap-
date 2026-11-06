@@ -1,6 +1,3 @@
-# п.2 - ручна перевірка 20 фактів
-# python verify.py sample -> заповнити correct і error_type у csv
-# python verify.py score
 import csv
 import random
 import sys

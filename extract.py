@@ -1,4 +1,3 @@
-# п.2 - екстракція фактів через LLM
 import re
 
 import config

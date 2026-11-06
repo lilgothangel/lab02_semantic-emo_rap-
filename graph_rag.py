@@ -1,4 +1,3 @@
-# п.4 - граф, Louvain, GraphRAG vs vector-RAG
 import math
 from collections import Counter
 from pathlib import Path
